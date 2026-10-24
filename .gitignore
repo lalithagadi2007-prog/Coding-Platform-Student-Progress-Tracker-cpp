@@ -1,0 +1,10 @@
+   *.exe
+   *.o
+   students.txt
+   faculty.txt
+   platforms.txt
+   problems.txt
+   studentplatforms.txt
+   assignments.txt
+   submissions.txt
+   student_report.txt
