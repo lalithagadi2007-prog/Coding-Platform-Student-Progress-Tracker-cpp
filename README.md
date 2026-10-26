@@ -13,6 +13,7 @@ keeps everything in one place.
 
 ## Features
 - Three roles: **Admin**, **Faculty** and **Student**, each with its own menu
+- Leaderboard view on the main menu
 - Add, search, sort and delete students, ranked by CGPA
 - Faculty add problems, assign them with deadlines (to one student or a whole department) and review submissions
 - Students link platform accounts, record submissions and view their progress
